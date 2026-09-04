@@ -7,7 +7,7 @@ about:
   head: 406416b
   archived: false
   latestVersion: early-access-release
-  collectedAt: 2026-09-04T20:14:56Z
+  collectedAt: 2026-09-04T20:33:05Z
 timeline:
   created: 2015-07-18
   lastCommit: 2026-09-04
@@ -94,7 +94,7 @@ total:
   commit: 11928
 ---
 path: /home/runner/.x-repo/github.com/schemacrawler/SchemaCrawler
-collectedAt: 2026-09-04T20:15:02Z
+collectedAt: 2026-09-04T20:33:12Z
 loc:
   Html:
     code: 58052
