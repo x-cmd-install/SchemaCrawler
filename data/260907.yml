@@ -2,24 +2,24 @@ about:
   description: "Free database schema discovery and comprehension tool"
   license: NOASSERTION
   homepage: http://www.schemacrawler.com/
-  head: b461409
+  head: 3605001
   archived: false
-  latestVersion: "v17.15.0"
-  collectedAt: 2026-09-07T04:27:12Z
+  latestVersion: "early-access-release"
+  collectedAt: 2026-09-07T19:55:44Z
 timeline:
   created: 2015-07-18
-  lastCommit: 2026-09-06
-  lastRelease: 2026-09-06
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-07
 popularity:
   star: 1828
   watcher: 43
   fork: 209
   release: 247
   contributor: 2
-  pullRequest: 1990
+  pullRequest: 1992
   issue: 422
 language:
-  Java: 1962660
+  Java: 1960399
   HTML: 1569375
   TSQL: 53189
   FreeMarker: 20051
@@ -33,66 +33,66 @@ language:
   Batchfile: 398
   Ruby: 365
   Mustache: 119
-totalBytes: 3647825
+totalBytes: 3645564
 recent:
   last30d:
     since: 2026-08-08
     release: 4
-    mergedPR: 42
+    mergedPR: 44
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 134
+    commit: 141
   last60d:
     since: 2026-07-09
     release: 6
-    mergedPR: 79
+    mergedPR: 81
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 295
+    commit: 302
   last90d:
     since: 2026-06-09
     release: 8
-    mergedPR: 98
+    mergedPR: 100
     openPR: 0
     closedIssue: 2
     openIssue: 0
-    commit: 344
+    commit: 351
   last180d:
     since: 2026-03-11
     release: 17
-    mergedPR: 175
+    mergedPR: 177
     openPR: 0
     closedIssue: 3
     openIssue: 0
-    commit: 482
+    commit: 489
   last360d:
     since: 2025-09-12
     release: 40
-    mergedPR: 376
+    mergedPR: 378
     openPR: 0
     closedIssue: 15
     openIssue: 0
-    commit: 1177
+    commit: 1184
   last720d:
     since: 2024-09-17
     release: 57
-    mergedPR: 584
+    mergedPR: 586
     openPR: 0
     closedIssue: 25
     openIssue: 0
-    commit: 2549
+    commit: 2556
 total:
   release: 247
-  mergedPR: 1051
+  mergedPR: 1053
   openPR: 0
   closedIssue: 422
   openIssue: 0
-  commit: 11973
+  commit: 11980
 ---
 path: /home/runner/.x-repo/github.com/schemacrawler/SchemaCrawler
-collectedAt: 2026-09-07T04:27:26Z
+collectedAt: 2026-09-07T19:55:58Z
 loc:
   Html:
     code: 58052
@@ -100,10 +100,10 @@ loc:
     blanks: 3410
     files: 48
   Java:
-    code: 40311
-    comments: 5816
-    blanks: 8376
-    files: 573
+    code: 40308
+    comments: 5800
+    blanks: 8361
+    files: 571
   Sql:
     code: 4946
     comments: 751
@@ -115,15 +115,15 @@ loc:
     blanks: 0
     files: 13
   Yaml:
-    code: 2858
+    code: 2880
     comments: 92
     blanks: 1
-    files: 50
+    files: 52
   Xml:
-    code: 2759
+    code: 2669
     comments: 43
-    blanks: 165
-    files: 25
+    blanks: 163
+    files: 24
   FreeMarker:
     code: 506
     comments: 29
@@ -181,18 +181,18 @@ loc:
     files: 3
   Markdown:
     code: 0
-    comments: 125
+    comments: 124
     blanks: 79
     files: 3
   Text:
     code: 0
-    comments: 62009
-    blanks: 26992
-    files: 270
+    comments: 63054
+    blanks: 27408
+    files: 271
 total:
-  code: 123810
-  comments: 68951
-  blanks: 41698
+  code: 123739
+  comments: 69979
+  blanks: 42097
   files: 1175
 ---
 date: "2026-08-24"
@@ -357,7 +357,7 @@ checks:
       - 'Warn: 17 commits out of 29 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:27:26+00:00
+  collectedAt: 2026-09-07T19:55:59+00:00
   platform:
     darwin/arm64:
       name:  null
