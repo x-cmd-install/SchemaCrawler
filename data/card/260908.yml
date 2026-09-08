@@ -5,7 +5,7 @@ about:
   head: 831139e
   archived: false
   latestVersion: "v17.15.1"
-  collectedAt: 2026-09-08T01:43:24Z
+  collectedAt: 2026-09-08T04:26:24Z
 timeline:
   created: 2015-07-18
   lastCommit: 2026-09-07
@@ -92,7 +92,7 @@ total:
   commit: 11985
 ---
 path: /home/runner/.x-repo/github.com/schemacrawler/SchemaCrawler
-collectedAt: 2026-09-08T01:43:38Z
+collectedAt: 2026-09-08T04:26:39Z
 loc:
   Html:
     code: 58052
