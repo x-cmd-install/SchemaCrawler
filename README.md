@@ -23,7 +23,13 @@ x install SchemaCrawler
 - **Latest**: `v17.15.1` (2026-09-10)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 2
-- **Published**: 2026-09-10T02:24:38Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [schemacrawler-17.15.1-bin.zip](https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.1/schemacrawler-17.15.1-bin.zip) | 294.1 MiB | `other` |
+| [schemacrawler-17.15.1-bin.zip.SHA-512](https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.1/schemacrawler-17.15.1-bin.zip.SHA-512) | 129 B | `other` |
 
 ## Popularity
 
@@ -68,8 +74,8 @@ Lowest-scoring checks:
 Install metadata for SchemaCrawler lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `SchemaCrawler` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/SchemaCrawler.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/SchemaCrawler.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:31:29Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:33:37Z._
