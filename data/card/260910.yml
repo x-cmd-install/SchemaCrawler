@@ -7,7 +7,7 @@ about:
   latestVersion: "v17.15.1"
   latestRelease: "v17.15.1"
   latestPrerelease: "early-access-release"
-  collectedAt: 2026-09-10T04:31:06Z
+  collectedAt: 2026-09-10T16:33:17Z
 timeline:
   created: 2015-07-18
   lastCommit: 2026-09-10
@@ -96,7 +96,7 @@ total:
   commit: 11990
 ---
 path: /home/runner/.x-repo/github.com/schemacrawler/SchemaCrawler
-collectedAt: 2026-09-10T04:31:25Z
+collectedAt: 2026-09-10T16:33:33Z
 loc:
   Html:
     code: 58052
