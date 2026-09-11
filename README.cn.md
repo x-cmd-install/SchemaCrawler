@@ -12,42 +12,7 @@ Free database schema discovery and comprehension tool
 x install SchemaCrawler
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/schemacrawler/SchemaCrawler>
-- **官网**: <http://www.schemacrawler.com/>
-- **许可证**: NOASSERTION
-
-## 发布
-
-- **最新版本**: `v17.15.1` (2026-09-10)
-- **最近提交**: 2026-09-10
-- **Release 含资产**: 2 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [schemacrawler-17.15.1-bin.zip](https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.1/schemacrawler-17.15.1-bin.zip) | 294.1 MiB | `other` |
-| [schemacrawler-17.15.1-bin.zip.SHA-512](https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.1/schemacrawler-17.15.1-bin.zip.SHA-512) | 129 B | `other` |
-
-## 流行度
-
-- **Star**: 1,828 · **Fork**: 209 · **开放 issue**: 422 · **贡献者**: 2
-
-## 累计统计
-
-- **发布数**: 248 · **已合并 PR**: 1054 · **开放 PR**: 0 · **已关闭 issue**: 422 · **开放 issue**: 0 · **提交数**: 11990
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 40 | 0 | 0 | 0 | 151 |
-| 90d | 2026-06-12 | 9 | 101 | 0 | 2 | 0 | 361 |
-| 360d | 2025-09-15 | 40 | 372 | 0 | 15 | 0 | 1194 |
-
-## 代码规模
+## 代码洞察
 
 合计: **114,995** 行代码（覆盖前 5 种语言、共 **838** 个文件）。
 
@@ -69,6 +34,44 @@ x install SchemaCrawler
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
+## 源代码
+
+- **上游仓库**: <https://github.com/schemacrawler/SchemaCrawler>
+- **官网**: <http://www.schemacrawler.com/>
+- **许可证**: NOASSERTION
+
+## 发布
+
+- **最新版本**: `v17.15.1` (2026-09-10)
+- **最近提交**: 2026-09-10
+- **Release 含资产**: 2 个
+
+## 流行度
+
+- **Star**: 1,828 · **Fork**: 209 · **开放 issue**: 422 · **贡献者**: 2
+
+## 累计统计
+
+- **发布数**: 248 · **已合并 PR**: 1054 · **开放 PR**: 0 · **已关闭 issue**: 422 · **开放 issue**: 0 · **提交数**: 11990
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 5 | 39 | 0 | 0 | 0 | 151 |
+| last60d | 2026-07-13 | 7 | 75 | 0 | 1 | 0 | 312 |
+| 90d | 2026-06-13 | 9 | 99 | 0 | 2 | 0 | 361 |
+| last180d | 2026-03-15 | 18 | 170 | 0 | 2 | 0 | 499 |
+| 360d | 2025-09-16 | 40 | 372 | 0 | 15 | 0 | 1194 |
+| last720d | 2024-09-21 | 58 | 586 | 0 | 25 | 0 | 2559 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [schemacrawler-17.15.1-bin.zip](https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.1/schemacrawler-17.15.1-bin.zip) | 294.1 MiB | `other` |
+| [schemacrawler-17.15.1-bin.zip.SHA-512](https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.1/schemacrawler-17.15.1-bin.zip.SHA-512) | 129 B | `other` |
+
 ## 改进这些数据
 
 SchemaCrawler 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `SchemaCrawler` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -78,4 +81,4 @@ SchemaCrawler 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:33:38Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:06:30Z._

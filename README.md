@@ -12,42 +12,7 @@ Free database schema discovery and comprehension tool
 x install SchemaCrawler
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/schemacrawler/SchemaCrawler>
-- **Homepage**: <http://www.schemacrawler.com/>
-- **License**: NOASSERTION
-
-## Release
-
-- **Latest**: `v17.15.1` (2026-09-10)
-- **Last commit**: 2026-09-10
-- **Assets in release**: 2
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [schemacrawler-17.15.1-bin.zip](https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.1/schemacrawler-17.15.1-bin.zip) | 294.1 MiB | `other` |
-| [schemacrawler-17.15.1-bin.zip.SHA-512](https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.1/schemacrawler-17.15.1-bin.zip.SHA-512) | 129 B | `other` |
-
-## Popularity
-
-- **Stars**: 1,828 · **Forks**: 209 · **Open issues**: 422 · **Contributors**: 2
-
-## Totals (cumulative)
-
-- **Releases**: 248 · **Merged PRs**: 1054 · **Open PRs**: 0 · **Closed issues**: 422 · **Open issues**: 0 · **Commits**: 11990
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 40 | 0 | 0 | 0 | 151 |
-| 90d | 2026-06-12 | 9 | 101 | 0 | 2 | 0 | 361 |
-| 360d | 2025-09-15 | 40 | 372 | 0 | 15 | 0 | 1194 |
-
-## Code size
+## Code insight
 
 Total: **114,995** lines of code across **838** files in the top 5 languages.
 
@@ -69,6 +34,44 @@ Lowest-scoring checks:
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
+## Source
+
+- **Upstream**: <https://github.com/schemacrawler/SchemaCrawler>
+- **Homepage**: <http://www.schemacrawler.com/>
+- **License**: NOASSERTION
+
+## Release
+
+- **Latest**: `v17.15.1` (2026-09-10)
+- **Last commit**: 2026-09-10
+- **Assets in release**: 2
+
+## Popularity
+
+- **Stars**: 1,828 · **Forks**: 209 · **Open issues**: 422 · **Contributors**: 2
+
+## Totals (cumulative)
+
+- **Releases**: 248 · **Merged PRs**: 1054 · **Open PRs**: 0 · **Closed issues**: 422 · **Open issues**: 0 · **Commits**: 11990
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 5 | 39 | 0 | 0 | 0 | 151 |
+| last60d | 2026-07-13 | 7 | 75 | 0 | 1 | 0 | 312 |
+| 90d | 2026-06-13 | 9 | 99 | 0 | 2 | 0 | 361 |
+| last180d | 2026-03-15 | 18 | 170 | 0 | 2 | 0 | 499 |
+| 360d | 2025-09-16 | 40 | 372 | 0 | 15 | 0 | 1194 |
+| last720d | 2024-09-21 | 58 | 586 | 0 | 25 | 0 | 2559 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [schemacrawler-17.15.1-bin.zip](https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.1/schemacrawler-17.15.1-bin.zip) | 294.1 MiB | `other` |
+| [schemacrawler-17.15.1-bin.zip.SHA-512](https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.1/schemacrawler-17.15.1-bin.zip.SHA-512) | 129 B | `other` |
+
 ## Improve this data
 
 Install metadata for SchemaCrawler lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `SchemaCrawler` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -78,4 +81,4 @@ Install metadata for SchemaCrawler lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:33:37Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:06:29Z._
