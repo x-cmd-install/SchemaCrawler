@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/schemacrawler/SchemaCrawler/releases/384307507",
-  "assets_url": "https://api.github.com/repos/schemacrawler/SchemaCrawler/releases/384307507/assets",
-  "upload_url": "https://uploads.github.com/repos/schemacrawler/SchemaCrawler/releases/384307507/assets{?name,label}",
-  "html_url": "https://github.com/schemacrawler/SchemaCrawler/releases/tag/v17.15.1",
-  "id": 384307507,
+  "url": "https://api.github.com/repos/schemacrawler/SchemaCrawler/releases/386732215",
+  "assets_url": "https://api.github.com/repos/schemacrawler/SchemaCrawler/releases/386732215/assets",
+  "upload_url": "https://uploads.github.com/repos/schemacrawler/SchemaCrawler/releases/386732215/assets{?name,label}",
+  "html_url": "https://github.com/schemacrawler/SchemaCrawler/releases/tag/v17.15.2",
+  "id": 386732215,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAld0CM4W6BEz",
-  "tag_name": "v17.15.1",
+  "node_id": "RE_kwDOAld0CM4XDRC3",
+  "tag_name": "v17.15.2",
   "target_commitish": "main",
-  "name": "v17.15.1",
+  "name": "v17.15.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-10T02:17:03Z",
-  "updated_at": "2026-09-10T02:24:38Z",
-  "published_at": "2026-09-10T02:24:38Z",
+  "created_at": "2026-09-11T01:34:37Z",
+  "updated_at": "2026-09-11T01:42:10Z",
+  "published_at": "2026-09-11T01:42:10Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/schemacrawler/SchemaCrawler/releases/assets/554046942",
-      "id": 554046942,
-      "node_id": "RA_kwDOAld0CM4hBhXe",
-      "name": "schemacrawler-17.15.1-bin.zip",
+      "url": "https://api.github.com/repos/schemacrawler/SchemaCrawler/releases/assets/556235353",
+      "id": 556235353,
+      "node_id": "RA_kwDOAld0CM4hJ3pZ",
+      "name": "schemacrawler-17.15.2-bin.zip",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -65,18 +65,18 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 308360229,
-      "digest": "sha256:d62c9f245d8874816b6fc20660e41d2a1277c188cfaa2f86a47407765a5391eb",
-      "download_count": 5,
-      "created_at": "2026-09-10T02:24:25Z",
-      "updated_at": "2026-09-10T02:24:38Z",
-      "browser_download_url": "https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.1/schemacrawler-17.15.1-bin.zip"
+      "size": 308360200,
+      "digest": "sha256:09e058b32a47b3c570cebdf8008a73a08706ca0ca2cda24d9abaa4d03008d64a",
+      "download_count": 1,
+      "created_at": "2026-09-11T01:41:59Z",
+      "updated_at": "2026-09-11T01:42:09Z",
+      "browser_download_url": "https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.2/schemacrawler-17.15.2-bin.zip"
     },
     {
-      "url": "https://api.github.com/repos/schemacrawler/SchemaCrawler/releases/assets/554046944",
-      "id": 554046944,
-      "node_id": "RA_kwDOAld0CM4hBhXg",
-      "name": "schemacrawler-17.15.1-bin.zip.SHA-512",
+      "url": "https://api.github.com/repos/schemacrawler/SchemaCrawler/releases/assets/556235351",
+      "id": 556235351,
+      "node_id": "RA_kwDOAld0CM4hJ3pX",
+      "name": "schemacrawler-17.15.2-bin.zip.SHA-512",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -102,15 +102,15 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 129,
-      "digest": "sha256:534e06a3670608729e44576bb536aaa594b6f82d8dde4696a61775ad4c9489b5",
+      "digest": "sha256:9ab2172019c90763504398a51d30a6f432e344b326b012f6ded7de63d1ec5089",
       "download_count": 1,
-      "created_at": "2026-09-10T02:24:25Z",
-      "updated_at": "2026-09-10T02:24:25Z",
-      "browser_download_url": "https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.1/schemacrawler-17.15.1-bin.zip.SHA-512"
+      "created_at": "2026-09-11T01:41:59Z",
+      "updated_at": "2026-09-11T01:41:59Z",
+      "browser_download_url": "https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.2/schemacrawler-17.15.2-bin.zip.SHA-512"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/schemacrawler/SchemaCrawler/tarball/v17.15.1",
-  "zipball_url": "https://api.github.com/repos/schemacrawler/SchemaCrawler/zipball/v17.15.1",
-  "body": "SchemaCrawler  release at last commit e48d9b871f02bf9f080d12e26118d1acb6df9806\nSee the change history at https://www.schemacrawler.com/changes-report.html\n\n\n## What's Changed\n* Bump chainguard-dev/actions/setup-gitsign from 1.6.33 to 1.6.34 by @dependabot[bot] in https://github.com/schemacrawler/SchemaCrawler/pull/2485\n* Remove schemacrawler-offline module and make a lightweight offline connector by @sualeh in https://github.com/schemacrawler/SchemaCrawler/pull/2486\n* v17.15.1 by @sualeh in https://github.com/schemacrawler/SchemaCrawler/pull/2487\n\n\n**Full Changelog**: https://github.com/schemacrawler/SchemaCrawler/compare/v17.15.0...v17.15.1",
-  "mentions_count": 2
+  "tarball_url": "https://api.github.com/repos/schemacrawler/SchemaCrawler/tarball/v17.15.2",
+  "zipball_url": "https://api.github.com/repos/schemacrawler/SchemaCrawler/zipball/v17.15.2",
+  "body": "SchemaCrawler  release at last commit d034efffaffdf6e8729fe9484f4ea60d3f4ea3c7\nSee the change history at https://www.schemacrawler.com/changes-report.html\n\n\n## What's Changed\n* Prepare for the next release by @sualeh in https://github.com/schemacrawler/SchemaCrawler/pull/2488\n\n\n**Full Changelog**: https://github.com/schemacrawler/SchemaCrawler/compare/v17.15.1...v17.15.2",
+  "mentions_count": 1
 }
