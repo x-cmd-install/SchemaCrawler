@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v17.15.1` (2026-09-10)
-- **Last commit**: 2026-09-10
+- **Latest**: `v17.15.2` (2026-09-11)
+- **Last commit**: 2026-09-11
 - **Assets in release**: 2
 
 ## Popularity
@@ -52,25 +52,25 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 248 · **Merged PRs**: 1054 · **Open PRs**: 0 · **Closed issues**: 422 · **Open issues**: 0 · **Commits**: 11990
+- **Releases**: 249 · **Merged PRs**: 1055 · **Open PRs**: 0 · **Closed issues**: 422 · **Open issues**: 0 · **Commits**: 11991
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 5 | 39 | 0 | 0 | 0 | 151 |
-| last60d | 2026-07-13 | 7 | 75 | 0 | 1 | 0 | 312 |
-| 90d | 2026-06-13 | 9 | 99 | 0 | 2 | 0 | 361 |
-| last180d | 2026-03-15 | 18 | 170 | 0 | 2 | 0 | 499 |
-| 360d | 2025-09-16 | 40 | 372 | 0 | 15 | 0 | 1194 |
-| last720d | 2024-09-21 | 58 | 586 | 0 | 25 | 0 | 2559 |
+| 30d | 2026-08-12 | 6 | 40 | 0 | 0 | 0 | 152 |
+| last60d | 2026-07-13 | 8 | 76 | 0 | 1 | 0 | 313 |
+| 90d | 2026-06-13 | 10 | 100 | 0 | 2 | 0 | 362 |
+| last180d | 2026-03-15 | 19 | 171 | 0 | 2 | 0 | 500 |
+| 360d | 2025-09-16 | 41 | 373 | 0 | 15 | 0 | 1195 |
+| last720d | 2024-09-21 | 59 | 587 | 0 | 25 | 0 | 2560 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [schemacrawler-17.15.1-bin.zip](https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.1/schemacrawler-17.15.1-bin.zip) | 294.1 MiB | `other` |
-| [schemacrawler-17.15.1-bin.zip.SHA-512](https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.1/schemacrawler-17.15.1-bin.zip.SHA-512) | 129 B | `other` |
+| [schemacrawler-17.15.2-bin.zip](https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.2/schemacrawler-17.15.2-bin.zip) | 294.1 MiB | `other` |
+| [schemacrawler-17.15.2-bin.zip.SHA-512](https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.2/schemacrawler-17.15.2-bin.zip.SHA-512) | 129 B | `other` |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for SchemaCrawler lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:06:29Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:29:10Z._
