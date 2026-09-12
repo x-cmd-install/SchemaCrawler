@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 308360200,
       "digest": "sha256:09e058b32a47b3c570cebdf8008a73a08706ca0ca2cda24d9abaa4d03008d64a",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-09-11T01:41:59Z",
       "updated_at": "2026-09-11T01:42:09Z",
       "browser_download_url": "https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.2/schemacrawler-17.15.2-bin.zip"
