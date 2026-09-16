@@ -30,7 +30,7 @@ Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/5 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/13 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 5 | 39 | 2 | 0 | 0 | 129 |
-| last60d | 2026-07-17 | 6 | 75 | 2 | 0 | 0 | 266 |
-| 90d | 2026-06-17 | 8 | 102 | 2 | 2 | 0 | 364 |
-| last180d | 2026-03-19 | 17 | 171 | 2 | 2 | 0 | 504 |
-| 360d | 2025-09-20 | 40 | 370 | 2 | 15 | 0 | 1182 |
-| last720d | 2024-09-25 | 58 | 590 | 2 | 25 | 0 | 2566 |
+| 30d | 2026-08-17 | 5 | 38 | 2 | 0 | 0 | 129 |
+| last60d | 2026-07-18 | 6 | 71 | 2 | 0 | 0 | 266 |
+| 90d | 2026-06-18 | 8 | 102 | 2 | 1 | 0 | 364 |
+| last180d | 2026-03-20 | 16 | 171 | 2 | 2 | 0 | 504 |
+| 360d | 2025-09-21 | 39 | 370 | 2 | 15 | 0 | 1182 |
+| last720d | 2024-09-26 | 58 | 590 | 2 | 25 | 0 | 2566 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for SchemaCrawler lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T04:56:17Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T04:43:29Z._
