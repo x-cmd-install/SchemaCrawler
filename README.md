@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v17.15.2` (2026-09-11)
-- **Last commit**: 2026-09-14
+- **Latest**: `early-access-release` (2026-09-11)
+- **Last commit**: 2026-09-17
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 1,828 · **Forks**: 208 · **Open issues**: 422 · **Contributors**: 2
+- **Stars**: 1,828 · **Forks**: 208 · **Open issues**: 423 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 248 · **Merged PRs**: 1058 · **Open PRs**: 2 · **Closed issues**: 422 · **Open issues**: 0 · **Commits**: 11998
+- **Releases**: 249 · **Merged PRs**: 1060 · **Open PRs**: 0 · **Closed issues**: 422 · **Open issues**: 1 · **Commits**: 12000
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 5 | 38 | 2 | 0 | 0 | 129 |
-| last60d | 2026-07-18 | 6 | 71 | 2 | 0 | 0 | 266 |
-| 90d | 2026-06-18 | 8 | 102 | 2 | 1 | 0 | 364 |
-| last180d | 2026-03-20 | 16 | 171 | 2 | 2 | 0 | 504 |
-| 360d | 2025-09-21 | 39 | 370 | 2 | 15 | 0 | 1182 |
-| last720d | 2024-09-26 | 58 | 590 | 2 | 25 | 0 | 2566 |
+| 30d | 2026-08-18 | 6 | 40 | 0 | 0 | 1 | 131 |
+| last60d | 2026-07-19 | 7 | 70 | 0 | 0 | 1 | 268 |
+| 90d | 2026-06-19 | 9 | 104 | 0 | 1 | 1 | 366 |
+| last180d | 2026-03-21 | 17 | 173 | 0 | 2 | 1 | 506 |
+| 360d | 2025-09-22 | 40 | 372 | 0 | 15 | 1 | 1184 |
+| last720d | 2024-09-27 | 59 | 592 | 0 | 25 | 1 | 2568 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for SchemaCrawler lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T04:43:29Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T04:50:30Z._
