@@ -4,7 +4,7 @@
 
 Free database schema discovery and comprehension tool
 
-![SchemaCrawler](https://repo.x-cmd.io/SchemaCrawler.svg)
+[![x-cmd/install — SchemaCrawler Code Quality Monitoring Repo Card](https://repo.x-cmd.io/SchemaCrawler.svg)](https://x-cmd.com/install/SchemaCrawler)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install SchemaCrawler
 
 ## Code insight
 
-Total: **114,995** lines of code across **838** files in the top 5 languages.
+Total: **115,055** lines of code across **839** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Html | 58,052 | 0 | 3,410 | 48 |
-| Java | 40,308 | 5,800 | 8,359 | 571 |
+| Java | 40,368 | 5,813 | 8,372 | 572 |
 | Sql | 4,946 | 751 | 366 | 154 |
 | Json | 4,257 | 0 | 0 | 13 |
 | Yaml | 2,880 | 92 | 1 | 52 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `early-access-release` (2026-09-11)
-- **Last commit**: 2026-09-18
+- **Last commit**: 2026-09-20
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 1,828 · **Forks**: 208 · **Open issues**: 423 · **Contributors**: 2
+- **Stars**: 1,831 · **Forks**: 208 · **Open issues**: 423 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 249 · **Merged PRs**: 1061 · **Open PRs**: 0 · **Closed issues**: 423 · **Open issues**: 0 · **Commits**: 12002
+- **Releases**: 249 · **Merged PRs**: 1064 · **Open PRs**: 0 · **Closed issues**: 423 · **Open issues**: 0 · **Commits**: 12006
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 6 | 40 | 0 | 1 | 0 | 133 |
-| last60d | 2026-07-20 | 6 | 69 | 0 | 1 | 0 | 270 |
-| 90d | 2026-06-20 | 9 | 105 | 0 | 2 | 0 | 368 |
-| last180d | 2026-03-22 | 17 | 174 | 0 | 3 | 0 | 508 |
-| 360d | 2025-09-23 | 40 | 373 | 0 | 16 | 0 | 1186 |
-| last720d | 2024-09-28 | 59 | 593 | 0 | 26 | 0 | 2569 |
+| 30d | 2026-08-21 | 6 | 40 | 0 | 1 | 0 | 109 |
+| last60d | 2026-07-22 | 6 | 71 | 0 | 1 | 0 | 258 |
+| 90d | 2026-06-22 | 9 | 105 | 0 | 2 | 0 | 362 |
+| last180d | 2026-03-24 | 17 | 176 | 0 | 3 | 0 | 500 |
+| 360d | 2025-09-25 | 40 | 376 | 0 | 15 | 0 | 1161 |
+| last720d | 2024-09-30 | 59 | 596 | 0 | 26 | 0 | 2573 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for SchemaCrawler lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:35:22Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:46:00Z._
