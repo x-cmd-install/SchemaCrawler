@@ -42,35 +42,35 @@ x install SchemaCrawler
 
 ## 发布
 
-- **最新版本**: `early-access-release` (2026-09-11)
+- **最新版本**: `v17.15.4` (2026-09-20)
 - **最近提交**: 2026-09-20
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 1,831 · **Fork**: 208 · **开放 issue**: 423 · **贡献者**: 2
+- **Star**: 1,831 · **Fork**: 208 · **开放 issue**: 424 · **贡献者**: 2
 
 ## 累计统计
 
-- **发布数**: 249 · **已合并 PR**: 1064 · **开放 PR**: 0 · **已关闭 issue**: 423 · **开放 issue**: 0 · **提交数**: 12006
+- **发布数**: 251 · **已合并 PR**: 1065 · **开放 PR**: 0 · **已关闭 issue**: 423 · **开放 issue**: 1 · **提交数**: 12009
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 6 | 40 | 0 | 1 | 0 | 109 |
-| last60d | 2026-07-22 | 6 | 71 | 0 | 1 | 0 | 258 |
-| 90d | 2026-06-22 | 9 | 105 | 0 | 2 | 0 | 362 |
-| last180d | 2026-03-24 | 17 | 176 | 0 | 3 | 0 | 500 |
-| 360d | 2025-09-25 | 40 | 376 | 0 | 15 | 0 | 1161 |
-| last720d | 2024-09-30 | 59 | 596 | 0 | 26 | 0 | 2573 |
+| 30d | 2026-08-22 | 7 | 38 | 0 | 1 | 1 | 112 |
+| last60d | 2026-07-23 | 8 | 72 | 0 | 1 | 1 | 261 |
+| 90d | 2026-06-23 | 11 | 106 | 0 | 2 | 1 | 365 |
+| last180d | 2026-03-25 | 19 | 177 | 0 | 3 | 1 | 503 |
+| 360d | 2025-09-26 | 42 | 375 | 0 | 15 | 1 | 1164 |
+| last720d | 2024-10-01 | 61 | 597 | 0 | 26 | 1 | 2571 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [schemacrawler-17.15.2-bin.zip](https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.2/schemacrawler-17.15.2-bin.zip) | 294.1 MiB | `other` |
-| [schemacrawler-17.15.2-bin.zip.SHA-512](https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.2/schemacrawler-17.15.2-bin.zip.SHA-512) | 129 B | `other` |
+| [schemacrawler-17.15.4-bin.zip](https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.4/schemacrawler-17.15.4-bin.zip) | 294.2 MiB | `other` |
+| [schemacrawler-17.15.4-bin.zip.SHA-512](https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.4/schemacrawler-17.15.4-bin.zip.SHA-512) | 129 B | `other` |
 
 ## 改进这些数据
 
@@ -81,4 +81,4 @@ SchemaCrawler 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260920.yml` · 2026-09-20T04:46:01Z._
+_数据快照: `data/card/260921.yml` · 2026-09-21T04:47:38Z._
