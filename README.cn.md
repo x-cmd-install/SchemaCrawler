@@ -14,12 +14,12 @@ x install SchemaCrawler
 
 ## 代码洞察
 
-合计: **115,055** 行代码（覆盖前 5 种语言、共 **839** 个文件）。
+合计: **115,123** 行代码（覆盖前 5 种语言、共 **840** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Html | 58,052 | 0 | 3,410 | 48 |
-| Java | 40,368 | 5,813 | 8,372 | 572 |
+| Java | 40,436 | 5,823 | 8,386 | 573 |
 | Sql | 4,946 | 751 | 366 | 154 |
 | Json | 4,257 | 0 | 0 | 13 |
 | Yaml | 2,880 | 92 | 1 | 52 |
@@ -42,35 +42,35 @@ x install SchemaCrawler
 
 ## 发布
 
-- **最新版本**: `v17.15.4` (2026-09-20)
-- **最近提交**: 2026-09-20
+- **最新版本**: `v17.15.5` (2026-09-22)
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 1,831 · **Fork**: 208 · **开放 issue**: 424 · **贡献者**: 2
+- **Star**: 1,832 · **Fork**: 208 · **开放 issue**: 424 · **贡献者**: 2
 
 ## 累计统计
 
-- **发布数**: 251 · **已合并 PR**: 1065 · **开放 PR**: 0 · **已关闭 issue**: 423 · **开放 issue**: 1 · **提交数**: 12009
+- **发布数**: 252 · **已合并 PR**: 1070 · **开放 PR**: 0 · **已关闭 issue**: 424 · **开放 issue**: 0 · **提交数**: 12016
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 7 | 38 | 0 | 1 | 1 | 112 |
-| last60d | 2026-07-23 | 8 | 72 | 0 | 1 | 1 | 261 |
-| 90d | 2026-06-23 | 11 | 106 | 0 | 2 | 1 | 365 |
-| last180d | 2026-03-25 | 19 | 177 | 0 | 3 | 1 | 503 |
-| 360d | 2025-09-26 | 42 | 375 | 0 | 15 | 1 | 1164 |
-| last720d | 2024-10-01 | 61 | 597 | 0 | 26 | 1 | 2571 |
+| 30d | 2026-08-23 | 8 | 41 | 0 | 2 | 0 | 119 |
+| last60d | 2026-07-24 | 9 | 77 | 0 | 2 | 0 | 268 |
+| 90d | 2026-06-24 | 12 | 111 | 0 | 3 | 0 | 372 |
+| last180d | 2026-03-26 | 20 | 182 | 0 | 4 | 0 | 510 |
+| 360d | 2025-09-27 | 42 | 377 | 0 | 16 | 0 | 1171 |
+| last720d | 2024-10-02 | 62 | 602 | 0 | 27 | 0 | 2578 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [schemacrawler-17.15.4-bin.zip](https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.4/schemacrawler-17.15.4-bin.zip) | 294.2 MiB | `other` |
-| [schemacrawler-17.15.4-bin.zip.SHA-512](https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.4/schemacrawler-17.15.4-bin.zip.SHA-512) | 129 B | `other` |
+| [schemacrawler-17.15.5-bin.zip](https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.5/schemacrawler-17.15.5-bin.zip) | 294.2 MiB | `other` |
+| [schemacrawler-17.15.5-bin.zip.SHA-512](https://github.com/schemacrawler/SchemaCrawler/releases/download/v17.15.5/schemacrawler-17.15.5-bin.zip.SHA-512) | 129 B | `other` |
 
 ## 改进这些数据
 
@@ -81,4 +81,4 @@ SchemaCrawler 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260921.yml` · 2026-09-21T04:47:38Z._
+_数据快照: `data/card/260922.yml` · 2026-09-22T04:46:09Z._
