@@ -30,7 +30,7 @@ Overall score: **4.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/14 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/12 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,837 · **Forks**: 209 · **Open issues**: 425 · **Contributors**: 2
+- **Stars**: 1,837 · **Forks**: 208 · **Open issues**: 425 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 8 | 30 | 0 | 3 | 0 | 49 |
-| last60d | 2026-08-08 | 11 | 75 | 0 | 3 | 0 | 204 |
-| 90d | 2026-07-09 | 13 | 112 | 0 | 4 | 0 | 372 |
-| last180d | 2026-04-10 | 20 | 180 | 0 | 5 | 0 | 518 |
-| 360d | 2025-10-12 | 42 | 370 | 0 | 16 | 0 | 1125 |
-| last720d | 2024-10-17 | 64 | 614 | 0 | 28 | 0 | 2576 |
+| 30d | 2026-09-08 | 8 | 30 | 0 | 3 | 0 | 49 |
+| last60d | 2026-08-09 | 11 | 73 | 0 | 3 | 0 | 204 |
+| 90d | 2026-07-10 | 13 | 112 | 0 | 4 | 0 | 372 |
+| last180d | 2026-04-11 | 20 | 177 | 0 | 5 | 0 | 518 |
+| 360d | 2025-10-13 | 42 | 369 | 0 | 16 | 0 | 1125 |
+| last720d | 2024-10-18 | 64 | 614 | 0 | 28 | 0 | 2572 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for SchemaCrawler lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T05:46:32Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T05:56:19Z._
