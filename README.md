@@ -14,15 +14,15 @@ x install SchemaCrawler
 
 ## Code insight
 
-Total: **115,882** lines of code across **845** files in the top 5 languages.
+Total: **115,874** lines of code across **845** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Html | 58,052 | 0 | 3,410 | 48 |
 | Java | 41,213 | 5,871 | 8,516 | 578 |
 | Sql | 4,946 | 751 | 366 | 154 |
-| Json | 4,257 | 0 | 0 | 13 |
-| Yaml | 2,880 | 92 | 1 | 52 |
+| Json | 4,253 | 0 | 0 | 13 |
+| Yaml | 2,876 | 92 | 1 | 52 |
 
 ## OpenSSF Scorecard
 
@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v17.16.0` (2026-10-14)
-- **Last commit**: 2026-10-14
+- **Latest**: `early-access-release` (2026-10-14)
+- **Last commit**: 2026-10-15
 - **Assets in release**: 2
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 255 · **Merged PRs**: 1089 · **Open PRs**: 0 · **Closed issues**: 425 · **Open issues**: 0 · **Commits**: 12061
+- **Releases**: 255 · **Merged PRs**: 1091 · **Open PRs**: 0 · **Closed issues**: 425 · **Open issues**: 0 · **Commits**: 12063
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 7 | 29 | 0 | 3 | 0 | 59 |
-| last60d | 2026-08-16 | 12 | 70 | 0 | 3 | 0 | 195 |
-| 90d | 2026-07-17 | 13 | 106 | 0 | 3 | 0 | 340 |
-| last180d | 2026-04-18 | 20 | 177 | 0 | 5 | 0 | 519 |
-| 360d | 2025-10-20 | 43 | 370 | 0 | 16 | 0 | 1107 |
-| last720d | 2024-10-25 | 65 | 618 | 0 | 28 | 0 | 2551 |
+| 30d | 2026-09-16 | 7 | 31 | 0 | 2 | 0 | 61 |
+| last60d | 2026-08-17 | 12 | 71 | 0 | 3 | 0 | 197 |
+| 90d | 2026-07-18 | 13 | 104 | 0 | 3 | 0 | 342 |
+| last180d | 2026-04-19 | 20 | 177 | 0 | 5 | 0 | 521 |
+| 360d | 2025-10-21 | 43 | 371 | 0 | 16 | 0 | 1109 |
+| last720d | 2024-10-26 | 65 | 620 | 0 | 28 | 0 | 2549 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for SchemaCrawler lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:27:15Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:24:40Z._
