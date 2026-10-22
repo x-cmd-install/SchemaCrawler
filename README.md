@@ -14,12 +14,12 @@ x install SchemaCrawler
 
 ## Code insight
 
-Total: **115,874** lines of code across **845** files in the top 5 languages.
+Total: **115,877** lines of code across **845** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Html | 58,052 | 0 | 3,410 | 48 |
-| Java | 41,213 | 5,871 | 8,516 | 578 |
+| Java | 41,216 | 5,871 | 8,516 | 578 |
 | Sql | 4,946 | 751 | 366 | 154 |
 | Json | 4,253 | 0 | 0 | 13 |
 | Yaml | 2,876 | 92 | 1 | 52 |
@@ -30,7 +30,7 @@ Overall score: **5.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/7 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `early-access-release` (2026-10-14)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-22
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 1,838 · **Forks**: 209 · **Open issues**: 425 · **Contributors**: 2
+- **Stars**: 1,839 · **Forks**: 208 · **Open issues**: 425 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 255 · **Merged PRs**: 1091 · **Open PRs**: 4 · **Closed issues**: 425 · **Open issues**: 0 · **Commits**: 12063
+- **Releases**: 255 · **Merged PRs**: 1095 · **Open PRs**: 0 · **Closed issues**: 425 · **Open issues**: 0 · **Commits**: 12072
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 5 | 24 | 4 | 1 | 0 | 45 |
-| last60d | 2026-08-22 | 11 | 64 | 4 | 3 | 0 | 169 |
-| 90d | 2026-07-23 | 12 | 98 | 4 | 3 | 0 | 323 |
-| last180d | 2026-04-24 | 20 | 174 | 4 | 5 | 0 | 508 |
-| 360d | 2025-10-26 | 43 | 364 | 4 | 16 | 0 | 1017 |
-| last720d | 2024-10-31 | 65 | 619 | 4 | 28 | 0 | 2536 |
+| 30d | 2026-09-22 | 5 | 25 | 0 | 1 | 0 | 52 |
+| last60d | 2026-08-23 | 11 | 66 | 0 | 3 | 0 | 176 |
+| 90d | 2026-07-24 | 12 | 102 | 0 | 3 | 0 | 330 |
+| last180d | 2026-04-25 | 20 | 172 | 0 | 5 | 0 | 515 |
+| 360d | 2025-10-27 | 43 | 366 | 0 | 15 | 0 | 1024 |
+| last720d | 2024-11-01 | 65 | 623 | 0 | 28 | 0 | 2542 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for SchemaCrawler lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:33:56Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:31:44Z._
