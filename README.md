@@ -14,12 +14,12 @@ x install SchemaCrawler
 
 ## Code insight
 
-Total: **115,877** lines of code across **845** files in the top 5 languages.
+Total: **115,876** lines of code across **845** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Html | 58,052 | 0 | 3,410 | 48 |
-| Java | 41,216 | 5,871 | 8,516 | 578 |
+| Java | 41,215 | 5,871 | 8,516 | 578 |
 | Sql | 4,946 | 751 | 366 | 154 |
 | Json | 4,253 | 0 | 0 | 13 |
 | Yaml | 2,876 | 92 | 1 | 52 |
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 255 · **Merged PRs**: 1095 · **Open PRs**: 0 · **Closed issues**: 425 · **Open issues**: 0 · **Commits**: 12072
+- **Releases**: 255 · **Merged PRs**: 1095 · **Open PRs**: 0 · **Closed issues**: 425 · **Open issues**: 0 · **Commits**: 12073
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 5 | 25 | 0 | 1 | 0 | 52 |
-| last60d | 2026-08-23 | 11 | 66 | 0 | 3 | 0 | 176 |
-| 90d | 2026-07-24 | 12 | 102 | 0 | 3 | 0 | 330 |
-| last180d | 2026-04-25 | 20 | 172 | 0 | 5 | 0 | 515 |
-| 360d | 2025-10-27 | 43 | 366 | 0 | 15 | 0 | 1024 |
-| last720d | 2024-11-01 | 65 | 623 | 0 | 28 | 0 | 2542 |
+| 30d | 2026-09-23 | 4 | 24 | 0 | 1 | 0 | 53 |
+| last60d | 2026-08-24 | 11 | 64 | 0 | 3 | 0 | 177 |
+| 90d | 2026-07-25 | 12 | 100 | 0 | 3 | 0 | 331 |
+| last180d | 2026-04-26 | 19 | 172 | 0 | 5 | 0 | 516 |
+| 360d | 2025-10-28 | 41 | 366 | 0 | 15 | 0 | 1025 |
+| last720d | 2024-11-02 | 65 | 622 | 0 | 28 | 0 | 2534 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for SchemaCrawler lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:31:44Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:36:44Z._
