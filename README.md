@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,839 · **Forks**: 208 · **Open issues**: 425 · **Contributors**: 2
+- **Stars**: 1,840 · **Forks**: 208 · **Open issues**: 425 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 4 | 24 | 0 | 1 | 0 | 53 |
-| last60d | 2026-08-24 | 11 | 64 | 0 | 3 | 0 | 177 |
-| 90d | 2026-07-25 | 12 | 100 | 0 | 3 | 0 | 331 |
-| last180d | 2026-04-26 | 19 | 172 | 0 | 5 | 0 | 516 |
-| 360d | 2025-10-28 | 41 | 366 | 0 | 15 | 0 | 1025 |
-| last720d | 2024-11-02 | 65 | 622 | 0 | 28 | 0 | 2534 |
+| 30d | 2026-09-24 | 4 | 24 | 0 | 1 | 0 | 53 |
+| last60d | 2026-08-25 | 10 | 63 | 0 | 3 | 0 | 177 |
+| 90d | 2026-07-26 | 12 | 100 | 0 | 3 | 0 | 331 |
+| last180d | 2026-04-27 | 19 | 171 | 0 | 5 | 0 | 516 |
+| 360d | 2025-10-29 | 41 | 363 | 0 | 15 | 0 | 1025 |
+| last720d | 2024-11-03 | 65 | 622 | 0 | 28 | 0 | 2524 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for SchemaCrawler lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:36:44Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:26:06Z._
