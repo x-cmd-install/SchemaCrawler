@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `early-access-release` (2026-10-14)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-29
 - **Assets in release**: 2
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 255 · **Merged PRs**: 1099 · **Open PRs**: 0 · **Closed issues**: 425 · **Open issues**: 0 · **Commits**: 12087
+- **Releases**: 255 · **Merged PRs**: 1100 · **Open PRs**: 0 · **Closed issues**: 425 · **Open issues**: 0 · **Commits**: 12092
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 3 | 18 | 0 | 0 | 0 | 49 |
-| last60d | 2026-08-29 | 10 | 60 | 0 | 3 | 0 | 162 |
-| 90d | 2026-07-30 | 12 | 102 | 0 | 3 | 0 | 303 |
-| last180d | 2026-05-01 | 19 | 173 | 0 | 5 | 0 | 509 |
-| 360d | 2025-11-02 | 40 | 357 | 0 | 15 | 0 | 997 |
-| last720d | 2024-11-07 | 65 | 622 | 0 | 28 | 0 | 2509 |
+| 30d | 2026-09-29 | 3 | 18 | 0 | 0 | 0 | 54 |
+| last60d | 2026-08-30 | 10 | 61 | 0 | 3 | 0 | 167 |
+| 90d | 2026-07-31 | 12 | 102 | 0 | 3 | 0 | 308 |
+| last180d | 2026-05-02 | 19 | 172 | 0 | 5 | 0 | 514 |
+| 360d | 2025-11-03 | 40 | 357 | 0 | 15 | 0 | 1002 |
+| last720d | 2024-11-08 | 64 | 620 | 0 | 28 | 0 | 2506 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for SchemaCrawler lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:27:25Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:37:58Z._
