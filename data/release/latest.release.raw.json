@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 292497481,
       "digest": "sha256:31ee08c3eb249e7a7566aa30e32da5d1d1faa97eee042f9ce297212cc370e8d4",
-      "download_count": 54,
+      "download_count": 64,
       "created_at": "2026-10-30T03:17:09Z",
       "updated_at": "2026-10-30T03:17:18Z",
       "browser_download_url": "https://github.com/schemacrawler/SchemaCrawler/releases/download/v18.0.1/schemacrawler-18.0.1-bin.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 129,
       "digest": "sha256:9b277e25840a8dd8be2b35fea3bfdae36f8584f0aa3fe499b9e86a372f8a6baf",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-30T03:17:09Z",
       "updated_at": "2026-10-30T03:17:09Z",
       "browser_download_url": "https://github.com/schemacrawler/SchemaCrawler/releases/download/v18.0.1/schemacrawler-18.0.1-bin.zip.SHA-512"
