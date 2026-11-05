@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 3 | 18 | 0 | 0 | 0 | 49 |
-| last60d | 2026-09-05 | 11 | 53 | 0 | 3 | 0 | 107 |
-| 90d | 2026-08-06 | 13 | 94 | 0 | 3 | 0 | 268 |
-| last180d | 2026-05-08 | 19 | 170 | 0 | 5 | 0 | 508 |
-| 360d | 2025-11-09 | 41 | 350 | 0 | 14 | 0 | 903 |
-| last720d | 2024-11-14 | 65 | 617 | 0 | 28 | 0 | 2425 |
+| 30d | 2026-10-06 | 3 | 18 | 0 | 0 | 0 | 49 |
+| last60d | 2026-09-06 | 11 | 51 | 0 | 3 | 0 | 107 |
+| 90d | 2026-08-07 | 13 | 94 | 0 | 3 | 0 | 268 |
+| last180d | 2026-05-09 | 19 | 167 | 0 | 5 | 0 | 508 |
+| 360d | 2025-11-10 | 41 | 349 | 0 | 14 | 0 | 903 |
+| last720d | 2024-11-15 | 65 | 617 | 0 | 28 | 0 | 2423 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for SchemaCrawler lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:06:54Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:30:39Z._
