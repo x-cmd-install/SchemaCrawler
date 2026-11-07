@@ -14,12 +14,12 @@ x install SchemaCrawler
 
 ## Code insight
 
-Total: **115,947** lines of code across **846** files in the top 5 languages.
+Total: **115,949** lines of code across **846** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Html | 58,052 | 0 | 3,410 | 48 |
-| Java | 41,286 | 5,887 | 8,532 | 579 |
+| Java | 41,288 | 5,888 | 8,533 | 579 |
 | Sql | 4,946 | 751 | 366 | 154 |
 | Json | 4,253 | 0 | 0 | 13 |
 | Yaml | 2,876 | 92 | 1 | 52 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `early-access-release` (2026-10-30)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-07
 - **Assets in release**: 2
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 256 · **Merged PRs**: 1103 · **Open PRs**: 0 · **Closed issues**: 425 · **Open issues**: 0 · **Commits**: 12099
+- **Releases**: 256 · **Merged PRs**: 1104 · **Open PRs**: 0 · **Closed issues**: 425 · **Open issues**: 0 · **Commits**: 12100
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 3 | 19 | 0 | 0 | 0 | 50 |
-| last60d | 2026-09-07 | 10 | 49 | 0 | 3 | 0 | 108 |
-| 90d | 2026-08-08 | 13 | 94 | 0 | 3 | 0 | 269 |
-| last180d | 2026-05-10 | 19 | 168 | 0 | 5 | 0 | 509 |
-| 360d | 2025-11-11 | 41 | 329 | 0 | 14 | 0 | 904 |
-| last720d | 2024-11-16 | 65 | 618 | 0 | 27 | 0 | 2419 |
+| 30d | 2026-10-08 | 3 | 20 | 0 | 0 | 0 | 51 |
+| last60d | 2026-09-08 | 10 | 50 | 0 | 3 | 0 | 109 |
+| 90d | 2026-08-09 | 13 | 93 | 0 | 3 | 0 | 270 |
+| last180d | 2026-05-11 | 18 | 168 | 0 | 5 | 0 | 510 |
+| 360d | 2025-11-12 | 40 | 330 | 0 | 14 | 0 | 905 |
+| last720d | 2024-11-17 | 65 | 618 | 0 | 27 | 0 | 2419 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for SchemaCrawler lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:25:15Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:48:22Z._
