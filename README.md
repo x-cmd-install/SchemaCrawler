@@ -14,12 +14,12 @@ x install SchemaCrawler
 
 ## Code insight
 
-Total: **115,949** lines of code across **846** files in the top 5 languages.
+Total: **116,000** lines of code across **847** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Html | 58,052 | 0 | 3,410 | 48 |
-| Java | 41,288 | 5,888 | 8,533 | 579 |
+| Java | 41,339 | 5,895 | 8,538 | 580 |
 | Sql | 4,946 | 751 | 366 | 154 |
 | Json | 4,253 | 0 | 0 | 13 |
 | Yaml | 2,876 | 92 | 1 | 52 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `early-access-release` (2026-10-30)
-- **Last commit**: 2026-11-07
+- **Last commit**: 2026-11-08
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 1,841 · **Forks**: 206 · **Open issues**: 425 · **Contributors**: 2
+- **Stars**: 1,842 · **Forks**: 206 · **Open issues**: 425 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 256 · **Merged PRs**: 1104 · **Open PRs**: 0 · **Closed issues**: 425 · **Open issues**: 0 · **Commits**: 12100
+- **Releases**: 256 · **Merged PRs**: 1110 · **Open PRs**: 0 · **Closed issues**: 425 · **Open issues**: 0 · **Commits**: 12109
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 3 | 20 | 0 | 0 | 0 | 51 |
-| last60d | 2026-09-08 | 10 | 50 | 0 | 3 | 0 | 109 |
-| 90d | 2026-08-09 | 13 | 93 | 0 | 3 | 0 | 270 |
-| last180d | 2026-05-11 | 18 | 168 | 0 | 5 | 0 | 510 |
-| 360d | 2025-11-12 | 40 | 330 | 0 | 14 | 0 | 905 |
-| last720d | 2024-11-17 | 65 | 618 | 0 | 27 | 0 | 2419 |
+| 30d | 2026-10-09 | 3 | 26 | 0 | 0 | 0 | 44 |
+| last60d | 2026-09-09 | 10 | 56 | 0 | 3 | 0 | 109 |
+| 90d | 2026-08-10 | 13 | 97 | 0 | 3 | 0 | 251 |
+| last180d | 2026-05-12 | 18 | 174 | 0 | 5 | 0 | 514 |
+| 360d | 2025-11-13 | 40 | 336 | 0 | 14 | 0 | 902 |
+| last720d | 2024-11-18 | 65 | 623 | 0 | 27 | 0 | 2379 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for SchemaCrawler lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T05:48:22Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T05:52:25Z._
