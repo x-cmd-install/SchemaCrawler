@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 307360286,
       "digest": "sha256:9bfe7d6bffb8c9f768cb0e5c275ec975062dc819a850babb0abb41ff2a07a207",
-      "download_count": 8,
+      "download_count": 24,
       "created_at": "2026-11-10T01:15:41Z",
       "updated_at": "2026-11-10T01:15:50Z",
       "browser_download_url": "https://github.com/schemacrawler/SchemaCrawler/releases/download/v18.0.2/schemacrawler-18.0.2-bin.zip"
