@@ -32,28 +32,28 @@ Total: **116,063** lines of code across **847** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v18.0.3` (2026-11-17)
-- **Last commit**: 2026-11-17
+- **Latest**: `early-access-release` (2026-11-17)
+- **Last commit**: 2026-11-18
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 1,842 · **Forks**: 206 · **Open issues**: 425 · **Contributors**: 2
+- **Stars**: 1,842 · **Forks**: 206 · **Open issues**: 425 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 1122 · **Open PRs**: 0 · **Closed issues**: 425 · **Open issues**: 0 · **Commits**: 12131
+- **Releases**: 258 · **Merged PRs**: 1124 · **Open PRs**: 0 · **Closed issues**: 425 · **Open issues**: 0 · **Commits**: 12133
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 4 | 30 | 0 | 0 | 0 | 58 |
-| last60d | 2026-09-18 | 10 | 60 | 0 | 2 | 0 | 112 |
-| 90d | 2026-08-19 | 15 | 101 | 0 | 3 | 0 | 237 |
-| last180d | 2026-05-21 | 20 | 183 | 0 | 5 | 0 | 530 |
-| 360d | 2025-11-22 | 42 | 335 | 0 | 14 | 0 | 887 |
-| last720d | 2024-11-27 | 66 | 626 | 0 | 26 | 0 | 2340 |
+| 30d | 2026-10-20 | 4 | 30 | 0 | 0 | 0 | 61 |
+| last60d | 2026-09-20 | 10 | 59 | 0 | 2 | 0 | 115 |
+| 90d | 2026-08-21 | 15 | 100 | 0 | 3 | 0 | 240 |
+| last180d | 2026-05-23 | 20 | 185 | 0 | 5 | 0 | 533 |
+| 360d | 2025-11-24 | 40 | 335 | 0 | 10 | 0 | 890 |
+| last720d | 2024-11-29 | 65 | 628 | 0 | 26 | 0 | 2334 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for SchemaCrawler lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:21:58Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:25:12Z._
