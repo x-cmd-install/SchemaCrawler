@@ -24,6 +24,16 @@ Total: **116,063** lines of code across **847** files in the top 5 languages.
 | Json | 4,253 | 0 | 0 | 13 |
 | Yaml | 2,876 | 92 | 1 | 52 |
 
+## OpenSSF Scorecard
+
+Overall score: **5.3 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## Source
 
 - **Upstream**: <https://github.com/schemacrawler/SchemaCrawler>
@@ -38,7 +48,7 @@ Total: **116,063** lines of code across **847** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,842 · **Forks**: 206 · **Open issues**: 425 · **Contributors**: 3
+- **Stars**: 1,841 · **Forks**: 206 · **Open issues**: 425 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -48,12 +58,12 @@ Total: **116,063** lines of code across **847** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 4 | 30 | 0 | 0 | 0 | 61 |
-| last60d | 2026-09-20 | 10 | 59 | 0 | 2 | 0 | 115 |
-| 90d | 2026-08-21 | 15 | 100 | 0 | 3 | 0 | 240 |
-| last180d | 2026-05-23 | 20 | 185 | 0 | 5 | 0 | 533 |
-| 360d | 2025-11-24 | 40 | 335 | 0 | 10 | 0 | 890 |
-| last720d | 2024-11-29 | 65 | 628 | 0 | 26 | 0 | 2334 |
+| 30d | 2026-10-21 | 4 | 30 | 0 | 0 | 0 | 61 |
+| last60d | 2026-09-21 | 8 | 57 | 0 | 1 | 0 | 115 |
+| 90d | 2026-08-22 | 14 | 97 | 0 | 3 | 0 | 240 |
+| last180d | 2026-05-24 | 20 | 184 | 0 | 5 | 0 | 533 |
+| 360d | 2025-11-25 | 40 | 335 | 0 | 10 | 0 | 890 |
+| last720d | 2024-11-30 | 65 | 628 | 0 | 26 | 0 | 2334 |
 
 ## Release assets
 
@@ -71,4 +81,4 @@ Install metadata for SchemaCrawler lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:25:12Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:10:26Z._

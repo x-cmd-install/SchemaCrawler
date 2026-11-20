@@ -24,6 +24,16 @@ x install SchemaCrawler
 | Json | 4,253 | 0 | 0 | 13 |
 | Yaml | 2,876 | 92 | 1 | 52 |
 
+## OpenSSF Scorecard 评分
+
+总评分: **5.3 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/schemacrawler/SchemaCrawler>
@@ -38,7 +48,7 @@ x install SchemaCrawler
 
 ## 流行度
 
-- **Star**: 1,842 · **Fork**: 206 · **开放 issue**: 425 · **贡献者**: 3
+- **Star**: 1,841 · **Fork**: 206 · **开放 issue**: 425 · **贡献者**: 3
 
 ## 累计统计
 
@@ -48,12 +58,12 @@ x install SchemaCrawler
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 4 | 30 | 0 | 0 | 0 | 61 |
-| last60d | 2026-09-20 | 10 | 59 | 0 | 2 | 0 | 115 |
-| 90d | 2026-08-21 | 15 | 100 | 0 | 3 | 0 | 240 |
-| last180d | 2026-05-23 | 20 | 185 | 0 | 5 | 0 | 533 |
-| 360d | 2025-11-24 | 40 | 335 | 0 | 10 | 0 | 890 |
-| last720d | 2024-11-29 | 65 | 628 | 0 | 26 | 0 | 2334 |
+| 30d | 2026-10-21 | 4 | 30 | 0 | 0 | 0 | 61 |
+| last60d | 2026-09-21 | 8 | 57 | 0 | 1 | 0 | 115 |
+| 90d | 2026-08-22 | 14 | 97 | 0 | 3 | 0 | 240 |
+| last180d | 2026-05-24 | 20 | 184 | 0 | 5 | 0 | 533 |
+| 360d | 2025-11-25 | 40 | 335 | 0 | 10 | 0 | 890 |
+| last720d | 2024-11-30 | 65 | 628 | 0 | 26 | 0 | 2334 |
 
 ## Release 资产
 
@@ -71,4 +81,4 @@ SchemaCrawler 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261119.yml` · 2026-11-19T08:25:12Z._
+_数据快照: `data/card/261120.yml` · 2026-11-20T07:10:26Z._
