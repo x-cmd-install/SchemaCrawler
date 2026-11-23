@@ -14,12 +14,12 @@ x install SchemaCrawler
 
 ## Code insight
 
-Total: **116,063** lines of code across **847** files in the top 5 languages.
+Total: **116,243** lines of code across **849** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Html | 58,052 | 0 | 3,410 | 48 |
-| Java | 41,402 | 5,887 | 8,544 | 580 |
+| Java | 41,570 | 5,906 | 8,574 | 582 |
 | Sql | 4,946 | 751 | 366 | 154 |
 | Json | 4,253 | 0 | 0 | 13 |
 | Yaml | 2,876 | 92 | 1 | 52 |
@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `early-access-release` (2026-11-17)
-- **Last commit**: 2026-11-21
+- **Latest**: `v18.0.4` (2026-11-23)
+- **Last commit**: 2026-11-23
 - **Assets in release**: 2
 
 ## Popularity
@@ -52,25 +52,25 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 1126 · **Open PRs**: 0 · **Closed issues**: 425 · **Open issues**: 0 · **Commits**: 12135
+- **Releases**: 259 · **Merged PRs**: 1128 · **Open PRs**: 0 · **Closed issues**: 425 · **Open issues**: 0 · **Commits**: 12148
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 4 | 31 | 0 | 0 | 0 | 42 |
-| last60d | 2026-09-23 | 7 | 55 | 0 | 1 | 0 | 98 |
-| 90d | 2026-08-24 | 14 | 95 | 0 | 3 | 0 | 237 |
-| last180d | 2026-05-26 | 20 | 186 | 0 | 5 | 0 | 516 |
-| 360d | 2025-11-27 | 40 | 337 | 0 | 10 | 0 | 843 |
-| last720d | 2024-12-02 | 65 | 630 | 0 | 26 | 0 | 2336 |
+| 30d | 2026-10-24 | 5 | 32 | 0 | 0 | 0 | 55 |
+| last60d | 2026-09-24 | 8 | 57 | 0 | 1 | 0 | 111 |
+| 90d | 2026-08-25 | 14 | 96 | 0 | 3 | 0 | 250 |
+| last180d | 2026-05-27 | 21 | 188 | 0 | 5 | 0 | 529 |
+| 360d | 2025-11-28 | 41 | 337 | 0 | 10 | 0 | 856 |
+| last720d | 2024-12-03 | 66 | 632 | 0 | 26 | 0 | 2348 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [schemacrawler-18.0.3-bin.zip](https://github.com/schemacrawler/SchemaCrawler/releases/download/v18.0.3/schemacrawler-18.0.3-bin.zip) | 293.2 MiB | `other` |
-| [schemacrawler-18.0.3-bin.zip.SHA-512](https://github.com/schemacrawler/SchemaCrawler/releases/download/v18.0.3/schemacrawler-18.0.3-bin.zip.SHA-512) | 129 B | `other` |
+| [schemacrawler-18.0.4-bin.zip](https://github.com/schemacrawler/SchemaCrawler/releases/download/v18.0.4/schemacrawler-18.0.4-bin.zip) | 293.6 MiB | `other` |
+| [schemacrawler-18.0.4-bin.zip.SHA-512](https://github.com/schemacrawler/SchemaCrawler/releases/download/v18.0.4/schemacrawler-18.0.4-bin.zip.SHA-512) | 129 B | `other` |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for SchemaCrawler lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T06:33:13Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T07:24:29Z._
