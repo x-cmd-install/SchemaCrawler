@@ -30,7 +30,7 @@ x install SchemaCrawler
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/11 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -58,12 +58,12 @@ x install SchemaCrawler
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 5 | 34 | 0 | 0 | 0 | 57 |
-| last60d | 2026-09-25 | 8 | 57 | 0 | 1 | 0 | 113 |
-| 90d | 2026-08-26 | 14 | 98 | 0 | 3 | 0 | 252 |
-| last180d | 2026-05-28 | 21 | 189 | 0 | 5 | 0 | 531 |
-| 360d | 2025-11-29 | 41 | 332 | 0 | 10 | 0 | 858 |
-| last720d | 2024-12-04 | 66 | 634 | 0 | 26 | 0 | 2348 |
+| 30d | 2026-10-26 | 5 | 32 | 0 | 0 | 0 | 57 |
+| last60d | 2026-09-26 | 7 | 53 | 0 | 1 | 0 | 113 |
+| 90d | 2026-08-27 | 14 | 96 | 0 | 3 | 0 | 252 |
+| last180d | 2026-05-29 | 21 | 187 | 0 | 5 | 0 | 531 |
+| 360d | 2025-11-30 | 40 | 332 | 0 | 10 | 0 | 858 |
+| last720d | 2024-12-05 | 66 | 634 | 0 | 26 | 0 | 2338 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ SchemaCrawler 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T09:53:06Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:20:35Z._
